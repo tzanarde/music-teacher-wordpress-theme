@@ -1,0 +1,80 @@
+[07-Feb-2024 12:27:35 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 13:11:25 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 13:13:31 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 13:30:47 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/functions.php on line 19
+[08-Feb-2024 13:30:47 UTC] PHP Warning:  Trying to access array offset on false in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[08-Feb-2024 13:30:47 UTC] PHP Warning:  Trying to access array offset on false in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[08-Feb-2024 13:30:49 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/functions.php on line 19
+[08-Feb-2024 13:30:49 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/functions.php on line 19
+[08-Feb-2024 13:30:55 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/functions.php on line 19
+[08-Feb-2024 13:30:55 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/functions.php on line 19
+[08-Feb-2024 13:31:19 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 13:31:37 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 13:31:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 14:23:29 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/functions.php on line 5
+[08-Feb-2024 14:23:29 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/functions.php on line 5
+[08-Feb-2024 14:43:47 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 14:58:57 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:12:43 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:15:18 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:16:25 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:16:25 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/header.php on line 18
+[08-Feb-2024 17:16:35 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:18:19 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/inc/customizer.php on line 5
+[08-Feb-2024 17:18:19 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/inc/customizer.php on line 5
+[08-Feb-2024 17:18:51 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/inc/customizer.php on line 11
+[08-Feb-2024 17:18:51 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/inc/customizer.php on line 11
+[08-Feb-2024 17:19:00 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/inc/customizer.php on line 13
+[08-Feb-2024 17:19:00 UTC] PHP Parse error:  syntax error, unexpected token "=>" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/inc/customizer.php on line 13
+[08-Feb-2024 17:19:06 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:28:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:49:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:50:51 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:50:55 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:51:40 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:51:51 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:52:10 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:52:26 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:52:36 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:52:45 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:52:50 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:53:12 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:54:23 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 17:57:23 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:01:47 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:04:06 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:05:46 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:09:48 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:10:31 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:11:11 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:12:51 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:38:54 UTC] PHP Parse error:  syntax error, unexpected token "=" in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 9
+[08-Feb-2024 18:46:18 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:46:48 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:48:04 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 18:59:35 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:00:23 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:03:09 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:04:48 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:07:16 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:07:40 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:09:08 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:09:08 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 14
+[08-Feb-2024 19:09:08 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 32
+[08-Feb-2024 19:09:08 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 33
+[08-Feb-2024 19:09:08 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 39
+[08-Feb-2024 19:09:08 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 40
+[08-Feb-2024 19:09:17 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 14
+[08-Feb-2024 19:09:17 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 32
+[08-Feb-2024 19:09:17 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 33
+[08-Feb-2024 19:09:17 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 39
+[08-Feb-2024 19:09:17 UTC] PHP Warning:  Undefined variable $hero_buttons_color in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 40
+[08-Feb-2024 19:09:33 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:11:16 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:12:12 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:13:03 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:13:12 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[08-Feb-2024 19:21:48 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting variable in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 3
+[08-Feb-2024 19:21:53 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting variable in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 3
+[08-Feb-2024 19:22:36 UTC] PHP Parse error:  syntax error, unexpected token ")", expecting variable in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 3
+[08-Feb-2024 19:23:06 UTC] PHP Parse error:  Unmatched ')' in /Users/tzanarde/Local Sites/music-teacher/app/public/wp-content/themes/music-theme/parts/content-hero.php on line 7

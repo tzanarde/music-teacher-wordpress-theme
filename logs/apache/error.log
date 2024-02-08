@@ -1,0 +1,11 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using tzanardemac.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 09:06:51.880510 2024] [mpm_event:notice] [pid 1606:tid 8633283136] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Feb 07 09:06:51.881003 2024] [core:notice] [pid 1606:tid 8633283136] AH00094: Command line: '/Users/tzanarde/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tzanarde/Library/Application Support/Local/run/Fp4ivaDV9/conf/apache/apache2.conf'
+[Wed Feb 07 10:02:34.851012 2024] [mpm_event:notice] [pid 1606:tid 8633283136] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using tzanardemac.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 07 10:02:37.628343 2024] [mpm_event:notice] [pid 2406:tid 8608789056] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Feb 07 10:02:37.628802 2024] [core:notice] [pid 2406:tid 8608789056] AH00094: Command line: '/Users/tzanarde/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tzanarde/Library/Application Support/Local/run/Fp4ivaDV9/conf/apache/apache2.conf'
+[Wed Feb 07 21:14:09.790496 2024] [mpm_event:notice] [pid 2406:tid 8608789056] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using tzanardemac.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 08 09:30:12.852075 2024] [mpm_event:notice] [pid 1977:tid 8604156480] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Feb 08 09:30:12.852474 2024] [core:notice] [pid 1977:tid 8604156480] AH00094: Command line: '/Users/tzanarde/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tzanarde/Library/Application Support/Local/run/Fp4ivaDV9/conf/apache/apache2.conf'
